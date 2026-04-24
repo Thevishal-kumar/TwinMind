@@ -47,7 +47,3 @@ You will need a valid **Groq API Key**. You can obtain one by signing up at the 
 
 ## Usage Security & Privacy
 All API requests to Groq are sent securely and directly from the client. Your audio and transcript data is kept in-memory to power the context windows and does not persist anywhere unencrypted besides what is sent to the LLM context limits. Ensure you review Groq's privacy policy regarding audio and prompt data.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
